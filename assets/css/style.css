@@ -1,0 +1,36 @@
+body {
+    background-position: right top;
+    background-attachment: fixed;
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/images5/Cloud-Aesthetic-Backgrounds-Desktop.jpg");
+    background-color: rgb(241, 232, 249);
+    text-align: start;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+#p1 {
+    background-color: rgb(189, 135, 225);
+    text-align: start;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+#p2 {
+    background-color: rgb(173, 101, 209);
+    text-align: start;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+#p3 {
+    background-color: rgb(154, 79, 189);
+    text-align: start;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#p4 {
+    background-color: rgb(107, 60, 137);
+    text-align: start;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
